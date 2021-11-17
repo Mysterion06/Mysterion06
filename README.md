@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 -->
 ![](https://github.com/Mysterion06/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/Mysterion06/github-stats/blob/master/generated/languages.svg)
+
+#### Profile Views
+![Visitor Count](https://profile-counter.glitch.me/{Mysterion06}/count.svg)
