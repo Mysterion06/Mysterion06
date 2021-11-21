@@ -17,3 +17,25 @@ Here are some ideas to get you started:
 
 #### Profile Views
 ![Visitor Count](https://profile-counter.glitch.me/{Mysterion06}/count.svg)
+
+#### Autosplitter commission work
+My rates (Game not bought):
+20$ Start
+40$ Split
+20$ Reset
+40$ LRT
+70$ Start, Split, Reset
+100$ Start,Split,Reset, LRT
+150$ SRT
+
+My rates (Game bought):
+15$ Start
+35$ Split
+15$ Reset
+25$ LRT
+60$ Start, Split, Reset
+80$ Start,Split,Reset, LRT
+125$ SRT
+
+Specific time requests cost more
+
