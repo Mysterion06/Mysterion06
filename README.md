@@ -35,7 +35,7 @@ My rates (Game bought/Shared):
 * 60€ Start, Split, Reset
 * 80€ Start,Split,Reset, LRT
 * 135€ SRT
-* 
+
 Specific time requests cost more
 
 Specific requests on the SRT can vary the prices
