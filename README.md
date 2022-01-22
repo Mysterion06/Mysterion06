@@ -24,7 +24,8 @@ My rates (Game not bought):
 * 20€ Reset
 * 35€ LRT
 * 70€ Start, Split, Reset
-* 100€ Start,Split,Reset, LRT
+* 85€ Start, Split, Loadremover
+* 100€ Start, Split, Reset, Loadremover
 * 150€ SRT
 
 My rates (Game bought/Shared):
@@ -33,7 +34,8 @@ My rates (Game bought/Shared):
 * 15€ Reset
 * 25€ LRT
 * 60€ Start, Split, Reset
-* 80€ Start,Split,Reset, LRT
+* 70€ Start, Split, Loadremover
+* 80€ Start, Split, Reset, Loadremover
 * 135€ SRT
 
 Specific time requests cost more
