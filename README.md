@@ -18,28 +18,4 @@ Here are some ideas to get you started:
 #### Profile Views
 ![Visitor Count](https://profile-counter.glitch.me/{Mysterion06}/count.svg)
 
-My rates (Game not bought):
-* 20€ Start
-* 40€ Split
-* 20€ Reset
-* 35€ LRT
-* 70€ Start, Split, Reset
-* 85€ Start, Split, Loadremover
-* 100€ Start, Split, Reset, Loadremover
-* 150€ SRT
-
-My rates (Game bought/Shared):
-* 15€ Start
-* 40€ Split
-* 15€ Reset
-* 25€ LRT
-* 60€ Start, Split, Reset
-* 70€ Start, Split, Loadremover
-* 80€ Start, Split, Reset, Loadremover
-* 135€ SRT
-
-Specific time requests cost more
-
-Specific requests on the SRT can vary the prices
-
 
